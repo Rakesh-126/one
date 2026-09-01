@@ -1,4 +1,4 @@
-```html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -4216,5 +4216,4 @@ observeReveals();
 </script>
 
 </body>
-</html>
-```
+
